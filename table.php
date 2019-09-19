@@ -21,7 +21,7 @@
         }
         else
         {
-            echo "Stop right there criminam scum !";
+            echo "Stop right there criminal scum !";
         }
         ?>
     </body>
